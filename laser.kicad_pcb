@@ -12013,17 +12013,6 @@
 	)
 	(gr_rect
 		(start 109 74)
-		(end 134 90)
-		(stroke
-			(width 0.2)
-			(type solid)
-		)
-		(fill no)
-		(layer "F.Cu")
-		(uuid "780ec53a-01e0-4312-bbda-61b8753bca4a")
-	)
-	(gr_rect
-		(start 109 74)
 		(end 183 106)
 		(stroke
 			(width 0.2)
