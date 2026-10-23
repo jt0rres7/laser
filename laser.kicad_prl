@@ -58,8 +58,8 @@
   },
   "git": {
     "integration_disabled": false,
-    "repo_type": "",
-    "repo_username": "",
+    "repo_type": "https",
+    "repo_username": "jt0rres7",
     "ssh_key": ""
   },
   "meta": {
